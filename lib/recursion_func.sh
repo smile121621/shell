@@ -13,6 +13,5 @@ function recursion {
 }
 
 
-read -p "echo a num: " num
-result=$(recursion $num)
-echo $result
+
+
